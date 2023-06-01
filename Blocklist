@@ -17,6 +17,7 @@
 127.0.0.1  localhost
 ::1  localhost
 #
+127.0.0.1 google.zip
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
 #
