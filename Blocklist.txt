@@ -1,0 +1,14 @@
+# AdAway Custom Blocklist
+# Blocking mobile ad providers and some analytics providers
+# and some custom hosts to reduce the hosts file size on android
+# that are not included in AdAway's standard host lists
+# otherwise would have to add big blocklists and unnecessarily clutter the hosts file
+#
+# Project home page:
+# https://github.com/yogifrog/DNSBlockList
+#
+# Fetch the latest version of this file:
+# https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+
+127.0.0.1  localhost
+::1  localhost
