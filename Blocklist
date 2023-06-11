@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 07-06-2023 0132
+# Date 11-06-2023 0650
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 07-06-2023-0132.test
+127.0.0.1 11-06-2023-0650.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -29,6 +29,10 @@
 127.0.0.1 evt.mxplay.com
 127.0.0.1 i.mxplayer.j2inter.com
 127.0.0.1 analytics.nianticlabs.com
+127.0.0.1 app-measurement.com
+127.0.0.1 gtm.oasisfeng.com
+127.0.0.1 www.googletagmanager.com
+127.0.0.1 growth-pa.googleapis.com
 #
 127.0.0.1 xml.opera.com
 127.0.0.1 thumbnails.opera.com
