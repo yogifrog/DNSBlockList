@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 24-09-2023 1730
+# Date 02-10-2023 0510
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 24-09-2023-1730.test
+127.0.0.1 02-10-2023-0510.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -80,8 +80,34 @@
 127.0.0.1 md-a-s.apptimize.com
 127.0.0.1 inapps.appsflyersdk.com
 127.0.0.1 launches.appsflyersdk.com
+127.0.0.1 sentry.io
 127.0.0.1 o427368.ingest.sentry.io
 127.0.0.1 o515169.ingest.sentry.io
 127.0.0.1 54b16de4c302.cdn4.forter.com
 127.0.0.1 zn0lxkzethotizctx-bahn.siteintercept.qualtrics.com
 127.0.0.1 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
+#
+127.0.0.1 adalliance.profiles.tagger.opecloud.com
+127.0.0.1 kw3qbu-cdn-settings.appsflyersdk.com
+127.0.0.1 te-static.technical-service.net
+127.0.0.1 monorail-edge.shopifysvc.com
+127.0.0.1 privacy.gatekeeperconsent.com
+127.0.0.1 the.gatekeeperconsent.com
+127.0.0.1 yxsu5ufd2m.kameleoon.eu
+127.0.0.1 diffuser-cdn.app-us1.com
+127.0.0.1 invitejs.trustpilot.com
+127.0.0.1 browser.sentry-cdn.com
+127.0.0.1 bshr.ezodn.com
+127.0.0.1 cdn-spurit.com
+127.0.0.1 g.ezodn.com
+127.0.0.1 g.ezoic.net
+127.0.0.1 t.visx.net
+127.0.0.1 sak.userreport.com
+127.0.0.1 files.upscore.com
+127.0.0.1 cr_stats.upscore.com
+127.0.0.1 static-eu.cleverpush.com
+127.0.0.1 notify-bugs-fra1.rtl.de
+127.0.0.1 responder.wt.heise.de
+127.0.0.1 data-fb7f8b3ae8.heise.de
+127.0.0.1 ssl-heise.met.vgwort.de
+127.0.0.1 jubbie.de
