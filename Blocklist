@@ -11,19 +11,20 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 10-10-2023 1151
+# Date 18-11-2023 0643
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 10-10-2023-1151.test
+127.0.0.1 18-11-2023-0643.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
 #
 127.0.0.1 dit.whatsapp.net
+127.0.0.1 crashlogs.whatsapp.net
 127.0.0.1 mqtt-mini.facebook.com
 127.0.0.1 was.vodafone.de
 127.0.0.1 evt.mxplay.com
