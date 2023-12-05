@@ -42,6 +42,9 @@
 127.0.0.1 beacons5.gvt3.com
 127.0.0.1 dwt.soundcloud.com
 127.0.0.1 dwt.soundcloud.com.first-party-js.datadome.co
+127.0.0.1 events-api.soundcloud.com
+127.0.0.1 kw3qbu-launches.appsflyersdk.com
+127.0.0.1 kw3qbu-conversions.appsflyersdk.com
 #
 127.0.0.1 xperiakeyboard.sonymobile.com
 127.0.0.1 xperiakeyboard.sonymobile.com.fritz.box
@@ -136,3 +139,15 @@
 127.0.0.1 jubbie.de
 127.0.0.1 config.ads.vungle.com
 127.0.0.1 live.primis.tech
+127.0.0.1 mparticle.map.fastly.net
+127.0.0.1 config2.cheatmyvegas.com
+127.0.0.1 identity.cheatmyvegas.com
+127.0.0.1 poole-collector-prod.n3twork.com
+127.0.0.1 browser-intake-datadoghq.com
+127.0.0.1 clientlog.midomi.com
+127.0.0.1 
+127.0.0.1 
+127.0.0.1 
+
+
+127.0.0.1 mobile-1810.api.privacy-center.org
