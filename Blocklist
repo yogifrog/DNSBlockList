@@ -40,6 +40,8 @@
 127.0.0.1 p11.techlab-cdn.com
 127.0.0.1 www.googleoptimize.com
 127.0.0.1 beacons5.gvt3.com
+127.0.0.1 dwt.soundcloud.com
+127.0.0.1 dwt.soundcloud.com.first-party-js.datadome.co
 #
 127.0.0.1 xperiakeyboard.sonymobile.com
 127.0.0.1 xperiakeyboard.sonymobile.com.fritz.box
@@ -52,6 +54,7 @@
 127.0.0.1 telemetry.soundcloud.com
 127.0.0.1 trackingapi.kaufda.de
 127.0.0.1 t.paypal.com
+127.0.0.1 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 127.0.0.1 backstory.ebay.de
 127.0.0.1 monitor.ebay.com
 127.0.0.1 pulsar.ebay.de
@@ -65,7 +68,7 @@
 127.0.0.1 fls-eu.amazon.de
 127.0.0.1 fls-eu.amazon.com
 127.0.0.1 unagi-na.amazon.com
-
+127.0.0.1 vao.cdn.trm.digital
 #
 127.0.0.1 assets.adobedtm.com
 127.0.0.1 cc-api-data.adobe.io
@@ -131,5 +134,5 @@
 127.0.0.1 data-fb7f8b3ae8.heise.de
 127.0.0.1 ssl-heise.met.vgwort.de
 127.0.0.1 jubbie.de
-127.0.0.1 vao.cdn.trm.digital
+127.0.0.1 config.ads.vungle.com
 127.0.0.1 live.primis.tech
