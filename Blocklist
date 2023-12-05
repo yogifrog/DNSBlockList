@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 05-12-2023 0112
+# Date 05-12-2023 0314
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 05-12-2023-0112.test
+127.0.0.1 05-12-2023-0314.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -60,6 +60,12 @@
 127.0.0.1 mobiletelemetry.ebay.com
 127.0.0.1 cas.avalon.perfdrive.com
 127.0.0.1 lms.ebayk.liberty-prod.classifiedscloud.io
+127.0.0.1 aax-eu-retail-direct.amazon-adsystem.com
+127.0.0.1 aax-eu.amazon.de
+127.0.0.1 fls-eu.amazon.de
+127.0.0.1 fls-eu.amazon.com
+127.0.0.1 unagi-na.amazon.com
+
 #
 127.0.0.1 assets.adobedtm.com
 127.0.0.1 cc-api-data.adobe.io
