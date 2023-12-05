@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 05-12-2023 0111
+# Date 05-12-2023 0112
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 05-12-2023-0111.test
+127.0.0.1 05-12-2023-0112.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -115,3 +115,4 @@
 127.0.0.1 data-fb7f8b3ae8.heise.de
 127.0.0.1 ssl-heise.met.vgwort.de
 127.0.0.1 jubbie.de
+127.0.0.1 vao.cdn.trm.digital
