@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 05-12-2023 0314
+# Date 05-12-2023 0558
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 05-12-2023-0314.test
+127.0.0.1 05-12-2023-0558.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -45,6 +45,8 @@
 127.0.0.1 events-api.soundcloud.com
 127.0.0.1 kw3qbu-launches.appsflyersdk.com
 127.0.0.1 kw3qbu-conversions.appsflyersdk.com
+127.0.0.1 cvhcs0-cdn-settings.appsflyersdk.com
+127.0.0.1 m.optout.ziffdavis.com
 #
 127.0.0.1 xperiakeyboard.sonymobile.com
 127.0.0.1 xperiakeyboard.sonymobile.com.fritz.box
@@ -72,6 +74,9 @@
 127.0.0.1 fls-eu.amazon.com
 127.0.0.1 unagi-na.amazon.com
 127.0.0.1 vao.cdn.trm.digital
+127.0.0.1 pro.ip-api.com
+127.0.0.1 ipv6.jsonip.com
+127.0.0.1 ip6.seeip.org
 #
 127.0.0.1 assets.adobedtm.com
 127.0.0.1 cc-api-data.adobe.io
@@ -145,9 +150,23 @@
 127.0.0.1 poole-collector-prod.n3twork.com
 127.0.0.1 browser-intake-datadoghq.com
 127.0.0.1 clientlog.midomi.com
-127.0.0.1 
-127.0.0.1 
-127.0.0.1 
-
-
+127.0.0.1 ads-cloud.rovio.com
+127.0.0.1 videoads-cloud.rovio.com
+127.0.0.1 gov.aniview.com
+127.0.0.1 a314.gameloft.com
+127.0.0.1 ingameads.gameloft.com
+127.0.0.1 spygtj-cdn-settings.appsflyersdk.com
+127.0.0.1 spygtj-launches.appsflyersdk.com
+127.0.0.1 analytics.hardlightgames.com
+127.0.0.1 zpsnex-cdn-settings.appsflyersdk.com
+127.0.0.1 zpsnex-launches.appsflyersdk.com
+127.0.0.1 mpyrsa-cdn-settings.appsflyersdk.com
+127.0.0.1 mpyrsa-launches.appsflyersdk.com
+127.0.0.1 mpyrsa-inapps.appsflyersdk.com
+127.0.0.1 ucgv24-launches.appsflyersdk.com
+127.0.0.1 njcv8q-cdn-settings.appsflyersdk.com
+127.0.0.1 njcv8q-launches.appsflyersdk.com
+127.0.0.1 track-sdk.customer.io
+127.0.0.1 unity3d.com
+127.0.0.1 sdk.privacy-center.org
 127.0.0.1 mobile-1810.api.privacy-center.org
