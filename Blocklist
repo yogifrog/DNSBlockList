@@ -52,18 +52,18 @@
 127.0.0.1 telemetry.soundcloud.com
 127.0.0.1 trackingapi.kaufda.de
 127.0.0.1 t.paypal.com
-127.0.0.1 mobiletelemetry.ebay.com
-127.0.0.1 lms.ebayk.liberty-prod.classifiedscloud.io
-#
-127.0.0.1 assets.adobedtm.com
-127.0.0.1 cc-api-data.adobe.io
-127.0.0.1 events.gfe.nvidia.com
 127.0.0.1 backstory.ebay.de
 127.0.0.1 monitor.ebay.com
 127.0.0.1 pulsar.ebay.de
 127.0.0.1 pulsar.ebay.com
 127.0.0.1 src.ebay-us.com
+127.0.0.1 mobiletelemetry.ebay.com
 127.0.0.1 cas.avalon.perfdrive.com
+127.0.0.1 lms.ebayk.liberty-prod.classifiedscloud.io
+#
+127.0.0.1 assets.adobedtm.com
+127.0.0.1 cc-api-data.adobe.io
+127.0.0.1 events.gfe.nvidia.com
 #
 127.0.0.1 settings.data.microsoft.com
 127.0.0.1 browser.events.data.microsoft.com
