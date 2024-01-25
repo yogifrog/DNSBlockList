@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 07-01-2024 0900
+# Date 25-01-2024 2215
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 07-01-2024-0900.test
+127.0.0.1 25-01-2024-2215.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -184,6 +184,7 @@
 127.0.0.1 sp.data.funkedigital.de
 127.0.0.1 nextpit.ck.page
 127.0.0.1 cpx.golem.de
+127.0.0.1 cpxl.golem.de
 127.0.0.1 ssl-golem.met.vgwort.de
 127.0.0.1 tracker.remp-beam.golem.de
 127.0.0.1 data-0c1a280f84.golem.de
@@ -194,3 +195,7 @@
 127.0.0.1 at.teads.tv
 127.0.0.1 boot.pbstck.com
 127.0.0.1 ups.xplosion.de
+127.0.0.1 ccpa.sp-prod.net
+127.0.0.1 script.ioam.de
+127.0.0.1 cdn-a.yieldlove.com
+127.0.0.1 s2s.yieldlove-ad-serving.net
