@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 13-02-2024 2054
+# Date 20-03-2024 0352
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 13-02-2024-2054.test
+127.0.0.1 20-03-2024-0352.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -79,10 +79,13 @@
 127.0.0.1 pro.ip-api.com
 127.0.0.1 ipv6.jsonip.com
 127.0.0.1 ip6.seeip.org
+127.0.0.1 wa.gmx.net
+127.0.0.1 piwik.avm.de
 #
 127.0.0.1 assets.adobedtm.com
 127.0.0.1 cc-api-data.adobe.io
 127.0.0.1 events.gfe.nvidia.com
+127.0.0.1 microsoftmscompoc.tt.omtrdc.net
 #
 127.0.0.1 settings.data.microsoft.com
 127.0.0.1 browser.events.data.microsoft.com
@@ -94,6 +97,7 @@
 127.0.0.1 consumer.entitlement.skype.com
 127.0.0.1 sconsentit9.trafficmanager.net
 127.0.0.1 open-ai-connect.skype.com
+127.0.0.1 js.monitor.azure.com
 #
 127.0.0.1 tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com
 127.0.0.1 settings.crashlytics.com
@@ -117,6 +121,7 @@
 127.0.0.1 sentry.io
 127.0.0.1 o427368.ingest.sentry.io
 127.0.0.1 o515169.ingest.sentry.io
+127.0.0.1 o278969.ingest.sentry.io
 127.0.0.1 54b16de4c302.cdn4.forter.com
 127.0.0.1 zn0lxkzethotizctx-bahn.siteintercept.qualtrics.com
 127.0.0.1 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
@@ -190,6 +195,10 @@
 127.0.0.1 data-0c1a280f84.golem.de
 127.0.0.1 cdn.stroeerdigitalgroup.de
 127.0.0.1 d2wu036mkcz52n.cloudfront.net
+127.0.0.1 d2o5idwacg3gyw.cloudfront.net
+127.0.0.1 d35u1vg1q28b3w.cloudfront.net
+127.0.0.1 d3lqotgbn3npr.cloudfront.net
+127.0.0.1 dn6rwwtxa647p.cloudfront.net
 127.0.0.1 static.trbo.com
 127.0.0.1 cdntrf.com
 127.0.0.1 at.teads.tv
@@ -205,3 +214,19 @@
 127.0.0.1 bild.met.vgwort.de
 127.0.0.1 crs.pa.br.de
 127.0.0.1 pa.br.de
+127.0.0.1 cdn0.forter.com
+127.0.0.1 cdn3.forter.com
+127.0.0.1 cdn9.forter.com
+127.0.0.1 adf0901f1861.cdn4.forter.com
+127.0.0.1 cdns.symplr.de
+127.0.0.1 cockpit.symplr.de
+127.0.0.1 wa.ui-portal.de
+127.0.0.1 de.ioam.de
+127.0.0.1 st.top100.ru
+127.0.0.1 merequartz.com
+127.0.0.1 media.ethicalads.io
+127.0.0.1 static.digidip.net
+127.0.0.1 cdn.viglink.com
+127.0.0.1 cdn.unblockia.com
+127.0.0.1 aa.online-metrix.net
+127.0.0.1 realtime.services.disqus.com
