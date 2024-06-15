@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 13-06-2024 2011
+# Date 16-06-2024 0110
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 13-06-2024-2011.test
+127.0.0.1 16-06-2024-0110.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -248,3 +248,17 @@
 127.0.0.1 cl.k5a.io
 127.0.0.1 data-f59db3288b.merkur.de
 127.0.0.1 a978.i6g1.akamai.net
+127.0.0.1 p.typekit.net
+127.0.0.1 cdn.lib.getjad.io
+127.0.0.1 vg01.met.vgwort.de
+127.0.0.1 vg05.met.vgwort.de
+127.0.0.1 data-c53e1346fa.gamestar.de
+127.0.0.1 data-5d621ddc78.pcgameshardware.de
+127.0.0.1 identity.nel.measure.office.net
+127.0.0.1 w3-reporting-nel.reddit.com
+127.0.0.1 alb.reddit.com
+127.0.0.1 o418887.ingest.sentry.io
+127.0.0.1 cdn-de.f11-ads.com
+127.0.0.1 stats.computecmedia.de
+127.0.0.1 applets.ebxcdn.com
+127.0.0.1 hl.upscore.com
