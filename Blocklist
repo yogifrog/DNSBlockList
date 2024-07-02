@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 16-06-2024 0110
+# Date 03-07-2024 0124
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 16-06-2024-0110.test
+127.0.0.1 03-07-2024-0124.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -256,9 +256,31 @@
 127.0.0.1 data-5d621ddc78.pcgameshardware.de
 127.0.0.1 identity.nel.measure.office.net
 127.0.0.1 w3-reporting-nel.reddit.com
+127.0.0.1 w3-reporting.reddit.com
 127.0.0.1 alb.reddit.com
 127.0.0.1 o418887.ingest.sentry.io
 127.0.0.1 cdn-de.f11-ads.com
 127.0.0.1 stats.computecmedia.de
 127.0.0.1 applets.ebxcdn.com
 127.0.0.1 hl.upscore.com
+127.0.0.1 mp.4dex.io
+127.0.0.1 orbidder.otto.de
+127.0.0.1 pa.openx.net
+127.0.0.1 buyer.dspx.tv
+127.0.0.1 hb.360yield.com
+127.0.0.1 salesiq.zoho.com
+127.0.0.1 fourier.taobao.com
+127.0.0.1 pbs-cs.yellowblue.io
+127.0.0.1 sync.richaudience.com
+127.0.0.1 cookiesync.api.bliink.io
+127.0.0.1 visitor.omnitagjs.com
+127.0.0.1 pebed.dm-event.net
+127.0.0.1 omnisnippet1.com
+127.0.0.1 vid.vidoomy.com
+127.0.0.1 prebid.a-mo.net
+127.0.0.1 tag.bliink.io
+127.0.0.1 polyfill.io
+127.0.0.1 b1h-euc1.zemanta.com
+127.0.0.1 cdn.subscribers.com
+127.0.0.1 ssl-idgmagazine.met.vgwort.de
+127.0.0.1 aa.online-metrix.net
