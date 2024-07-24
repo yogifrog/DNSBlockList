@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 17-07-2024 1148
+# Date 24-07-2024 0457
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 17-07-2024-1148.test
+127.0.0.1 24-07-2024-0457.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -298,3 +298,9 @@
 127.0.0.1 cdn.firstpromoter.com
 127.0.0.1 tools.luckyorange.com
 127.0.0.1 77ee068b6863.cdn4.forter.com
+127.0.0.1 cdn.bc0a.com
+127.0.0.1 go.ezodn.com
+127.0.0.1 www.awin1.com
+127.0.0.1 cl.t3n.de
+127.0.0.1 data-cb9b83f47f.t3n.de
+127.0.0.1 cdn.shareaholic.net
