@@ -50,6 +50,8 @@
 127.0.0.1 kw3qbu-conversions.appsflyersdk.com
 127.0.0.1 cvhcs0-cdn-settings.appsflyersdk.com
 127.0.0.1 m.optout.ziffdavis.com
+127.0.0.1 edge.ads.twitch.tv
+127.0.0.1 analytics.m7g.twitch.tv
 #
 127.0.0.1 xperiakeyboard.sonymobile.com
 127.0.0.1 xperiakeyboard.sonymobile.com.fritz.box
@@ -205,6 +207,7 @@
 127.0.0.1 d35u1vg1q28b3w.cloudfront.net
 127.0.0.1 d3lqotgbn3npr.cloudfront.net
 127.0.0.1 dn6rwwtxa647p.cloudfront.net
+127.0.0.1 ddacn6pr5v0tl.cloudfront.net
 127.0.0.1 static.trbo.com
 127.0.0.1 cdntrf.com
 127.0.0.1 at.teads.tv
