@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 25-07-2024 2030
+# Date 05-08-2024 1432
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 25-07-2024-2030.test
+127.0.0.1 05-08-2024-1432.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -307,3 +307,14 @@
 127.0.0.1 cl.t3n.de
 127.0.0.1 data-cb9b83f47f.t3n.de
 127.0.0.1 cdn.shareaholic.net
+127.0.0.1 cdn.opecloud.com
+127.0.0.1 content.viralize.tv
+127.0.0.1 events.newsroom.bi
+127.0.0.1 d.nativendo.de
+127.0.0.1 cdn-gl.nmrodam.com
+127.0.0.1 cdn.atf-tagmanager.de
+127.0.0.1 vg07.met.vgwort.de
+127.0.0.1 brigitte.met.vgwort.de
+127.0.0.1 s2.go-mpulse.net
+127.0.0.1 eu-west-1-rtb.gumgum.com
+127.0.0.1 data-13d258638d.freiepresse.de
