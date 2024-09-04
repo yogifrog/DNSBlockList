@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 07-08-2024 1049
+# Date 04-09-2024 0226
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 07-08-2024-1049.test
+127.0.0.1 04-09-2024-0226.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -323,3 +323,5 @@
 127.0.0.1 s2.go-mpulse.net
 127.0.0.1 eu-west-1-rtb.gumgum.com
 127.0.0.1 data-13d258638d.freiepresse.de
+127.0.0.1 d.ba-content.de
+127.0.0.1 sync.e-volution.ai
