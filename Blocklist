@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 24-10-2024 1527
+# Date 28-10-2024 1948
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 24-10-2024-1527.test
+127.0.0.1 28-10-2024-1948.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -329,3 +329,5 @@
 127.0.0.1 data.rt.giga.de
 127.0.0.1 data-ec98eddf4a.giga.de
 127.0.0.1 ssl-econa.met.vgwort.de
+127.0.0.1 new-sentry.gitlab.net
+127.0.0.1 vg06.met.vgwort.de
