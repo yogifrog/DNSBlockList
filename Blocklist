@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 21-12-2024 0250
+# Date 11-01-2025 0606
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 21-12-2024-0250.test
+127.0.0.1 11-01-2025-0606.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -339,3 +339,6 @@
 127.0.0.1 player-telemetry.vimeo.com
 127.0.0.1 content-loader.com
 127.0.0.1 benelph.de
+127.0.0.1 census-app.scorecardresearch.com
+127.0.0.1 pbs-cs.minutemedia-prebid.com
+127.0.0.1 vg08.met.vgwort.de
