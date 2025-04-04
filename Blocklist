@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 01-04-2025 0052
+# Date 04-04-2025 2314
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 01-04-2025-0052.test
+127.0.0.1 04-04-2025-2314.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -33,6 +33,8 @@
 127.0.0.1 analytics.nianticlabs.com
 127.0.0.1 app-measurement.com
 127.0.0.1 region1.app-measurement.com
+127.0.0.1 region1.analytics.google.com
+127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 gtm.oasisfeng.com
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 growth-pa.googleapis.com
@@ -43,6 +45,7 @@
 127.0.0.1 p11.techlab-cdn.com
 127.0.0.1 www.googleoptimize.com
 127.0.0.1 beacons5.gvt3.com
+127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 dwt.soundcloud.com
 127.0.0.1 dwt.soundcloud.com.first-party-js.datadome.co
 127.0.0.1 events-api.soundcloud.com
@@ -62,10 +65,14 @@
 127.0.0.1 xperiakeyboard.sonymobile.com.fritz.box
 127.0.0.1 support.tvsideview.sony.net
 127.0.0.1 cds.csx.sony.com
-#
+# Opera
 127.0.0.1 xml.opera.com
 127.0.0.1 thumbnails.opera.com
 127.0.0.1 ofa-sub.osp.opera.software
+127.0.0.1 sitesuggestion.opera-api.com
+127.0.0.1 merchandise.opera-api.com
+127.0.0.1 subscriptions.opera.com
+#
 127.0.0.1 telemetry.soundcloud.com
 127.0.0.1 trackingapi.kaufda.de
 127.0.0.1 t.paypal.com
@@ -90,14 +97,19 @@
 127.0.0.1 ip6.seeip.org
 127.0.0.1 wa.gmx.net
 127.0.0.1 piwik.avm.de
-#
+# Adobe
 127.0.0.1 assets.adobedtm.com
 127.0.0.1 cc-api-data.adobe.io
 127.0.0.1 adobecorp.data.adobedc.net
+127.0.0.1 adobeid-na1.services.adobe.com
+127.0.0.1 csdkapi-policy.adobe.com
+127.0.0.1 inside.corp.adobe.com
+#
 127.0.0.1 events.gfe.nvidia.com
 127.0.0.1 microsoftmscompoc.tt.omtrdc.net
 #
 127.0.0.1 settings.data.microsoft.com
+127.0.0.1 settings-win.data.microsoft.com
 127.0.0.1 browser.events.data.microsoft.com
 127.0.0.1 mobile.events.data.microsoft.com
 127.0.0.1 mobile.pipe.aria.microsoft.com
@@ -189,6 +201,8 @@
 127.0.0.1 njcv8q-launches.appsflyersdk.com
 127.0.0.1 1lvnx7-launches.appsflyersdk.com
 127.0.0.1 1lvnx7-cdn-settings.appsflyersdk.com
+127.0.0.1 reqhfg-launches.appsflyersdk.com
+127.0.0.1 register.appsflyersdk.com
 127.0.0.1 track-sdk.customer.io
 127.0.0.1 unity3d.com
 127.0.0.1 sdk.privacy-center.org
@@ -355,3 +369,13 @@
 127.0.0.1 pjgiyz-cdn-settings.appsflyersdk.com
 127.0.0.1 error-tracking.reddit.com
 127.0.0.1 app.adjust.io
+127.0.0.1 consent.cookiebot.com
+127.0.0.1 ms-cookie-sync.presage.io
+127.0.0.1 load.sersi.einfachiso.de
+127.0.0.1 js.hsadspixel.net
+127.0.0.1 js.hs-banner.com
+127.0.0.1 usync.ingage.tech
+127.0.0.1 ortb.feedad.com
+127.0.0.1 cs.pgammedia.com
+127.0.0.1 prodregistryv2.org
+127.0.0.1 featureassets.org
