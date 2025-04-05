@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 04-04-2025 2314
+# Date 05-04-2025 0432
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 04-04-2025-2314.test
+127.0.0.1 05-04-2025-0432.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -188,6 +188,7 @@
 127.0.0.1 gov.aniview.com
 127.0.0.1 a314.gameloft.com
 127.0.0.1 ingameads.gameloft.com
+127.0.0.1 reqhfg-cdn-settings.appsflyersdk.com
 127.0.0.1 spygtj-cdn-settings.appsflyersdk.com
 127.0.0.1 spygtj-launches.appsflyersdk.com
 127.0.0.1 analytics.hardlightgames.com
