@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 05-04-2025 0432
+# Date 11-04-2025 0233
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 05-04-2025-0432.test
+127.0.0.1 11-04-2025-0233.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -104,6 +104,8 @@
 127.0.0.1 adobeid-na1.services.adobe.com
 127.0.0.1 csdkapi-policy.adobe.com
 127.0.0.1 inside.corp.adobe.com
+127.0.0.1 edge.adobedc.net
+127.0.0.1 adobedc.demdex.net
 #
 127.0.0.1 events.gfe.nvidia.com
 127.0.0.1 microsoftmscompoc.tt.omtrdc.net
@@ -213,6 +215,14 @@
 127.0.0.1 matomo.ipc-computer.de
 127.0.0.1 widgets.trustedshops.com
 127.0.0.1 waz.met.vgwort.de
+127.0.0.1 vg01.met.vgwort.de
+127.0.0.1 vg02.met.vgwort.de
+127.0.0.1 vg03.met.vgwort.de
+127.0.0.1 vg04.met.vgwort.de
+127.0.0.1 vg05.met.vgwort.de
+127.0.0.1 vg06.met.vgwort.de
+127.0.0.1 vg07.met.vgwort.de
+127.0.0.1 vg08.met.vgwort.de
 127.0.0.1 vg09.met.vgwort.de
 127.0.0.1 ssl-teltarif.met.vgwort.de
 127.0.0.1 anonym.data.funkedigital.de
@@ -368,6 +378,7 @@
 127.0.0.1 ads.qualitymedianetwork.de
 127.0.0.1 pjgiyz-launches.appsflyersdk.com
 127.0.0.1 pjgiyz-cdn-settings.appsflyersdk.com
+127.0.0.1 tk1kaa-inapps.appsflyersdk.com
 127.0.0.1 error-tracking.reddit.com
 127.0.0.1 app.adjust.io
 127.0.0.1 consent.cookiebot.com
@@ -380,3 +391,9 @@
 127.0.0.1 cs.pgammedia.com
 127.0.0.1 prodregistryv2.org
 127.0.0.1 featureassets.org
+127.0.0.1 cdn.h5v.eu
+127.0.0.1 v1.green-ads.net
+127.0.0.1 v2.green-ads.net
+127.0.0.1 v3.green-ads.net
+127.0.0.1 ha.publishers.tremorhub.com
+127.0.0.1 telemetry.codefusion.technology
