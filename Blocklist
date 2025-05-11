@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 02-05-2025 1352
+# Date 11-05-2025 0356
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 02-05-2025-1352.test
+127.0.0.1 11-05-2025-0356.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -31,6 +31,7 @@
 127.0.0.1 evt.mxplay.com
 127.0.0.1 i.mxplayer.j2inter.com
 127.0.0.1 analytics.nianticlabs.com
+127.0.0.1 analytics.nianticspatial.com
 127.0.0.1 app-measurement.com
 127.0.0.1 region1.app-measurement.com
 127.0.0.1 region1.analytics.google.com
@@ -125,6 +126,7 @@
 127.0.0.1 open-ai-connect.skype.com
 127.0.0.1 js.monitor.azure.com
 127.0.0.1 gateway.bingviz.microsoftapp.net
+127.0.0.1 bat.bing.net
 #
 127.0.0.1 tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com
 127.0.0.1 settings.crashlytics.com
@@ -415,3 +417,7 @@
 127.0.0.1 cdn.viglink.com
 127.0.0.1 carrick-ui.advoncommerce.com
 127.0.0.1 events.mapbox.com
+127.0.0.1 clevertap-prod.com
+127.0.0.1 px.wa.ui-portal.de
+127.0.0.1 data-40dcbb4884.tag24.de
+127.0.0.1 o9tt6h08li.execute-api.eu-west-1.amazonaws.com
