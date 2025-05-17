@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 13-05-2025 0556
+# Date 17-05-2025 0402
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 13-05-2025-0556.test
+127.0.0.1 17-05-2025-0402.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -245,6 +245,7 @@
 127.0.0.1 d3lqotgbn3npr.cloudfront.net
 127.0.0.1 dn6rwwtxa647p.cloudfront.net
 127.0.0.1 ddacn6pr5v0tl.cloudfront.net
+127.0.0.1 db7q4jg5rkhk8.cloudfront.net
 127.0.0.1 static.trbo.com
 127.0.0.1 cdntrf.com
 127.0.0.1 at.teads.tv
@@ -424,3 +425,4 @@
 127.0.0.1 o9tt6h08li.execute-api.eu-west-1.amazonaws.com
 127.0.0.1 browser-intake-us5-datadoghq.com
 127.0.0.1 census-app.scorecardresearch.com
+127.0.0.1 hit-error.upscore.com
