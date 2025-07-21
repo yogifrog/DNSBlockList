@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 14-07-2025 2240
+# Date 21-07-2025 0705
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 14-07-2025-2240.test
+127.0.0.1 21-07-2025-0705.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -79,6 +79,7 @@
 #
 127.0.0.1 telemetry.soundcloud.com
 127.0.0.1 trackingapi.kaufda.de
+127.0.0.1 tgw.gmx.net
 127.0.0.1 t.paypal.com
 127.0.0.1 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 127.0.0.1 backstory.ebay.de
@@ -426,6 +427,7 @@
 127.0.0.1 px.wa.ui-portal.de
 127.0.0.1 data-40dcbb4884.tag24.de
 127.0.0.1 o9tt6h08li.execute-api.eu-west-1.amazonaws.com
+127.0.0.1 rum.browser-intake-datadoghq.com
 127.0.0.1 browser-intake-us5-datadoghq.com
 127.0.0.1 census-app.scorecardresearch.com
 127.0.0.1 hit-error.upscore.com
@@ -451,3 +453,4 @@
 127.0.0.1 utiq.t-online.de
 127.0.0.1 ssl-t-online.met.vgwort.de
 127.0.0.1 data-1df8532686.t-online.de
+127.0.0.1 events.launchdarkly.com
