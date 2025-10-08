@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 05-10-2025 0758
+# Date 07-10-2025 0759
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 05-10-2025-0758.test
+127.0.0.1 07-10-2025-0759.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -239,6 +239,7 @@
 127.0.0.1 nextpit.ck.page
 127.0.0.1 cpx.golem.de
 127.0.0.1 cpxl.golem.de
+127.0.0.1 carmen.golem.de
 127.0.0.1 ssl-golem.met.vgwort.de
 127.0.0.1 tracker.remp-beam.golem.de
 127.0.0.1 data-0c1a280f84.golem.de
@@ -439,6 +440,7 @@
 127.0.0.1 thl2rj-register.appsflyersdk.com
 127.0.0.1 thl2rj-cdn-settings.appsflyersdk.com
 127.0.0.1 qbrere.cdn-settings.appsflyersdk.com
+127.0.0.1 qbrere.launches.appsflyersdk.com
 127.0.0.1 matomo.tarnkappe.info
 127.0.0.1 b1t-nldc1.outbrain.com
 127.0.0.1 cdn-4.convertexperiments.com
@@ -471,3 +473,9 @@
 127.0.0.1 visit-server.inmobi-choice.io
 127.0.0.1 fast.nexx360.io
 127.0.0.1 instant.page
+127.0.0.1 as.ck-ie.com
+127.0.0.1 sync.tagoras.io
+127.0.0.1 sync.quantumdex.io
+127.0.0.1 prebidtest.zemanta.com
+127.0.0.1 apps.smartadserver.com
+127.0.0.1 tracker.direct.e-volution.ai
