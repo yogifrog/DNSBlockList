@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 18-10-2025 1728
+# Date 23-10-2025 0323
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 18-10-2025-1728.test
+127.0.0.1 23-10-2025-0323.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -64,6 +64,7 @@
 127.0.0.1 i-sdk.mediation.unity3d.com
 127.0.0.1 o-sdk.mediation.unity3d.com
 127.0.0.1 raine.accuweather.com
+127.0.0.1 location.services.mozilla.com
 #
 127.0.0.1 xperiakeyboard.sonymobile.com
 127.0.0.1 xperiakeyboard.sonymobile.com.fritz.box
@@ -159,6 +160,7 @@
 127.0.0.1 o515169.ingest.sentry.io
 127.0.0.1 o278969.ingest.sentry.io
 127.0.0.1 o64374.ingest.sentry.io
+127.0.0.1 o427061.ingest.sentry.io
 127.0.0.1 54b16de4c302.cdn4.forter.com
 127.0.0.1 zn0lxkzethotizctx-bahn.siteintercept.qualtrics.com
 127.0.0.1 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
@@ -485,3 +487,8 @@
 127.0.0.1 free-hit-counters.net
 127.0.0.1 cdn.ziffstatic.com
 127.0.0.1 cdn.sentinelpro.com
+127.0.0.1 lrj80dsya2.kameleoon.io
+127.0.0.1 cdn.qualitymedianetwork.de
+127.0.0.1 wtp.siteperformancetest.net
+127.0.0.1 siteperformancetest.net
+127.0.0.1 aswpsdkeu.com
