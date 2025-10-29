@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 24-10-2025 0415
+# Date 29-10-2025 0550
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 24-10-2025-0415.test
+127.0.0.1 29-10-2025-0550.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -48,6 +48,7 @@
 127.0.0.1 beacons5.gvt3.com
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 ogads-pa.clients6.google.com
+127.0.0.1 clienttracing-pa.googleapis.com
 127.0.0.1 dwt.soundcloud.com
 127.0.0.1 dwt.soundcloud.com.first-party-js.datadome.co
 127.0.0.1 events-api.soundcloud.com
@@ -65,6 +66,7 @@
 127.0.0.1 o-sdk.mediation.unity3d.com
 127.0.0.1 raine.accuweather.com
 127.0.0.1 location.services.mozilla.com
+127.0.0.1 csp-reporting.cloudflare.com
 #
 127.0.0.1 xperiakeyboard.sonymobile.com
 127.0.0.1 xperiakeyboard.sonymobile.com.fritz.box
