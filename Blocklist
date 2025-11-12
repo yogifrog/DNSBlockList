@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 03-11-2025 0650
+# Date 12-11-2025 1027
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 03-11-2025-0650.test
+127.0.0.1 12-11-2025-1027.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -452,6 +452,8 @@
 127.0.0.1 thl2rj-cdn-settings.appsflyersdk.com
 127.0.0.1 qbrere.cdn-settings.appsflyersdk.com
 127.0.0.1 qbrere.launches.appsflyersdk.com
+127.0.0.1 qbrere.attr.appsflyersdk.com
+127.0.0.1 qbrere.conversions.appsflyersdk.com
 127.0.0.1 matomo.tarnkappe.info
 127.0.0.1 b1t-nldc1.outbrain.com
 127.0.0.1 cdn-4.convertexperiments.com
@@ -507,3 +509,8 @@
 127.0.0.1 dmp.nativendo.de
 127.0.0.1 trace.mediago.io
 127.0.0.1 s.update.ib.adnxs.net
+127.0.0.1 united.uimserv.net
+127.0.0.1 t.uimserv.net
+127.0.0.1 prebid.scope3.com
+
+
