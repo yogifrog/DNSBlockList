@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 14-11-2025 0450
+# Date 18-11-2025 2049
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 14-11-2025-0450.test
+127.0.0.1 18-11-2025-2049.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -38,7 +38,7 @@
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 gtm.oasisfeng.com
 127.0.0.1 www.googletagmanager.com
-127.0.0.1 growth-pa.googleapis.com
+127.0.0.1 growth-pa..com
 127.0.0.1 ampcid.google.com
 127.0.0.1 quantcast.mgr.consensu.org
 127.0.0.1 reporting.cdndex.io
@@ -49,6 +49,7 @@
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 ogads-pa.clients6.google.com
 127.0.0.1 clienttracing-pa.googleapis.com
+127.0.0.1 federatedcompute-pa.googleapis.com
 127.0.0.1 dwt.soundcloud.com
 127.0.0.1 dwt.soundcloud.com.first-party-js.datadome.co
 127.0.0.1 events-api.soundcloud.com
@@ -144,8 +145,8 @@
 127.0.0.1 tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 firebase-settings.crashlytics.com
-127.0.0.1 firebaselogging.googleapis.com
-127.0.0.1 firebaselogging-pa.googleapis.com
+127.0.0.1 firebaselogging..com
+127.0.0.1 firebaselogging-pa..com
 127.0.0.1 201205igp.gameloft.com
 127.0.0.1 collector.github.com
 127.0.0.1 esdk-ffl.spotify.com
@@ -513,3 +514,5 @@
 127.0.0.1 united.uimserv.net
 127.0.0.1 t.uimserv.net
 127.0.0.1 prebid.scope3.com
+127.0.0.1 tags.focus.de
+127.0.0.1 fb.html-load.com
