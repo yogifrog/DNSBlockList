@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 17-12-2025 0501
+# Date 29-12-2025 0004
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 17-12-2025-0501.test
+127.0.0.1 29-12-2025-0004.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -94,6 +94,7 @@
 127.0.0.1 epimetheus.navigator.gmx.net
 127.0.0.1 permission-proxy-gmxnet.uimserv.net
 127.0.0.1 t.paypal.com
+127.0.0.1 i.paypal.com
 127.0.0.1 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 127.0.0.1 backstory.ebay.de
 127.0.0.1 monitor.ebay.com
@@ -538,4 +539,6 @@
 127.0.0.1 sdk.mrf.io
 127.0.0.1 beyondwickedmapping.org
 127.0.0.1 assetsconfigcdn.org
+127.0.0.1 c.sf-syn.com
+127.0.0.1 ib.beintoo.com
 127.0.0.1 fb.html-load.com
