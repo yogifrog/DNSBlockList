@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 09-01-2026 0047
+# Date 13-01-2026 0555
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 09-01-2026-0047.test
+127.0.0.1 13-01-2026-0555.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -471,6 +471,7 @@
 127.0.0.1 qbrere.attr.appsflyersdk.com
 127.0.0.1 qbrere.conversions.appsflyersdk.com
 127.0.0.1 1lvnx7-conversions.appsflyersdk.com
+127.0.0.1 cvhcs0-launches.appsflyersdk.com
 127.0.0.1 matomo.tarnkappe.info
 127.0.0.1 b1t-nldc1.outbrain.com
 127.0.0.1 cdn-4.convertexperiments.com
@@ -551,5 +552,17 @@
 127.0.0.1 sync.sparteo.com
 127.0.0.1 vanheim.ff.avast.com
 127.0.0.1 www.datadoghq-browser-agent.com
+127.0.0.1 probeapilogger.speedcheckerapi.com
+127.0.0.1 secureimages.channeladvisor.com
+127.0.0.1 static.cloudflareinsights.com
+127.0.0.1 video-edge-47127a.sjc05.hls.live-video.net
+127.0.0.1 55119859-dda5-430f-931e-0d72fe4b7ad1.edge.permutive.app
+127.0.0.1 cdn.c-i.as
+127.0.0.1 kobel.services
+127.0.0.1 onesignal.com
+127.0.0.1 otheve.beacon.qq.com
+127.0.0.1 apmplus.ap-southeast-1.volces.com
+127.0.0.1 ast.computerbild.de
 127.0.0.1 analytics.k8s.nect.com
+127.0.0.1 fowl.solemnlybuck.com
 127.0.0.1 fb.html-load.com
