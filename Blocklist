@@ -11,14 +11,14 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 14-01-2026 0943
+# Date 18-01-2026 2021
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
 # [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 14-01-2026-0943.test
+127.0.0.1 18-01-2026-2021.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -182,6 +182,7 @@
 127.0.0.1 o278969.ingest.sentry.io
 127.0.0.1 o64374.ingest.sentry.io
 127.0.0.1 o427061.ingest.sentry.io
+127.0.0.1 o13855.ingest.sentry.io
 127.0.0.1 54b16de4c302.cdn4.forter.com
 127.0.0.1 zn0lxkzethotizctx-bahn.siteintercept.qualtrics.com
 127.0.0.1 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
@@ -568,4 +569,12 @@
 127.0.0.1 ast.computerbild.de
 127.0.0.1 analytics.k8s.nect.com
 127.0.0.1 fowl.solemnlybuck.com
+127.0.0.1 analytics.blender.org
+127.0.0.1 api16-access-ttp.tiktokpangle.us
+127.0.0.1 api16-access-ttp.tiktokpangle-b.us
+127.0.0.1 api16-access-ttp-b.tiktokpangle.us
+127.0.0.1 api16-access-ttp-b.tiktokpangle-b.us
+127.0.0.1 lf-static.tiktokpangle-cdn-us.com
+127.0.0.1 mediation-sg.pangle.io
+127.0.0.1 mediation-sg2-log.pangle.io
 127.0.0.1 fb.html-load.com
