@@ -11,14 +11,12 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 22-01-2026 2034
+# Date 29-01-2026 0451
 #
 #
 127.0.0.1  localhost
 ::1  localhost
 #
-# [To Test with Ping if the List is Updated Succefully]
-127.0.0.1 22-01-2026-2034.test
 #
 127.0.0.1 lbesec.com
 127.0.0.1 in.appcenter.ms
@@ -577,5 +575,6 @@
 127.0.0.1 lf-static.tiktokpangle-cdn-us.com
 127.0.0.1 mediation-sg.pangle.io
 127.0.0.1 mediation-sg2-log.pangle.io
+127.0.0.1 lngtd.com
 127.0.0.1 diy.bauhaus.info
 127.0.0.1 fb.html-load.com
