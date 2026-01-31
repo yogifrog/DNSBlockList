@@ -11,7 +11,7 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 29-01-2026 0451
+# Date 31-01-2026 0556
 #
 #
 127.0.0.1  localhost
@@ -79,6 +79,8 @@
 127.0.0.1 cds.csx.sony.com
 127.0.0.1 telemetry.api.playstation.com
 127.0.0.1 smetrics.aem.playstation.com
+127.0.0.1 telemetry.api.swiftkey.com
+127.0.0.1 snippetdata.api.swiftkey.com
 # Opera
 127.0.0.1 xml.opera.com
 127.0.0.1 thumbnails.opera.com
