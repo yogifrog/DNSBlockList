@@ -11,7 +11,7 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 31-01-2026 0556
+# Date 13-02-2026 0447
 #
 #
 127.0.0.1  localhost
@@ -187,6 +187,7 @@
 127.0.0.1 zn0lxkzethotizctx-bahn.siteintercept.qualtrics.com
 127.0.0.1 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
 127.0.0.1 pixel.stirlingpdf.com
+127.0.0.1 piwik.dnsforge.de
 #
 127.0.0.1 adalliance.profiles.tagger.opecloud.com
 127.0.0.1 kw3qbu-cdn-settings.appsflyersdk.com
@@ -474,6 +475,7 @@
 127.0.0.1 qbrere.conversions.appsflyersdk.com
 127.0.0.1 1lvnx7-conversions.appsflyersdk.com
 127.0.0.1 cvhcs0-launches.appsflyersdk.com
+127.0.0.1 lqpgc3-cdn-settings.appsflyersdk.com
 127.0.0.1 matomo.tarnkappe.info
 127.0.0.1 b1t-nldc1.outbrain.com
 127.0.0.1 cdn-4.convertexperiments.com
@@ -577,6 +579,12 @@
 127.0.0.1 lf-static.tiktokpangle-cdn-us.com
 127.0.0.1 mediation-sg.pangle.io
 127.0.0.1 mediation-sg2-log.pangle.io
+127.0.0.1 player.target-video.com
+127.0.0.1 silk.tribegadzooks.com
+127.0.0.1 gutefrage.h5v.eu
+127.0.0.1 stpd.cloud
 127.0.0.1 lngtd.com
+127.0.0.1 achel-xof.com
+127.0.0.1 image.mdr.de
 127.0.0.1 diy.bauhaus.info
 127.0.0.1 fb.html-load.com
