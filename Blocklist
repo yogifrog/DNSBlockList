@@ -11,7 +11,7 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 22-02-2026 0004
+# Date 22-02-2026 0006
 #
 #
 127.0.0.1  localhost
@@ -308,7 +308,7 @@
 127.0.0.1 static.digidip.net
 127.0.0.1 cdn.viglink.com
 127.0.0.1 cdn.unblockia.com
-127.0.0.1 
+127.0.0.1 aa.online-metrix.net
 127.0.0.1 realtime.services.disqus.com
 127.0.0.1 bdcore-apr-lb.bda.ndmdhs.com
 127.0.0.1 data.kameleoon.io
