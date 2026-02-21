@@ -11,7 +11,7 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 13-02-2026 0447
+# Date 22-02-2026 0350
 #
 #
 127.0.0.1  localhost
@@ -308,7 +308,7 @@
 127.0.0.1 static.digidip.net
 127.0.0.1 cdn.viglink.com
 127.0.0.1 cdn.unblockia.com
-127.0.0.1 aa.online-metrix.net
+127.0.0.1 
 127.0.0.1 realtime.services.disqus.com
 127.0.0.1 bdcore-apr-lb.bda.ndmdhs.com
 127.0.0.1 data.kameleoon.io
@@ -359,7 +359,6 @@
 127.0.0.1 b1h-euc1.zemanta.com
 127.0.0.1 cdn.subscribers.com
 127.0.0.1 ssl-idgmagazine.met.vgwort.de
-127.0.0.1 aa.online-metrix.net
 127.0.0.1 tags.chip.de
 127.0.0.1 ssl.2.damoh.chip.de
 127.0.0.1 chip.met.vgwort.de
@@ -581,6 +580,9 @@
 127.0.0.1 mediation-sg2-log.pangle.io
 127.0.0.1 player.target-video.com
 127.0.0.1 silk.tribegadzooks.com
+127.0.0.1 fsc.adscale.de
+127.0.0.1 quiz.stroeermediabrands.de
+127.0.0.1 tracking.globalcomparison.net
 127.0.0.1 gutefrage.h5v.eu
 127.0.0.1 stpd.cloud
 127.0.0.1 lngtd.com
