@@ -11,7 +11,7 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 22-02-2026 0006
+# Date 22-04-2026 1933
 #
 #
 127.0.0.1  localhost
@@ -475,6 +475,9 @@
 127.0.0.1 1lvnx7-conversions.appsflyersdk.com
 127.0.0.1 cvhcs0-launches.appsflyersdk.com
 127.0.0.1 lqpgc3-cdn-settings.appsflyersdk.com
+127.0.0.1 thl2rj.inapps.appsflyersdk.com
+127.0.0.1 thl2rj.register.appsflyersdk.com
+127.0.0.1 thl2rj.launches.appsflyersdk.com
 127.0.0.1 matomo.tarnkappe.info
 127.0.0.1 b1t-nldc1.outbrain.com
 127.0.0.1 cdn-4.convertexperiments.com
