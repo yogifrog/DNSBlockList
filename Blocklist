@@ -11,7 +11,7 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 22-04-2026 1933
+# Date 02-05-2026 2033
 #
 #
 127.0.0.1  localhost
@@ -183,6 +183,7 @@
 127.0.0.1 o64374.ingest.sentry.io
 127.0.0.1 o427061.ingest.sentry.io
 127.0.0.1 o13855.ingest.sentry.io
+127.0.0.1 o120674.ingest.sentry.io
 127.0.0.1 54b16de4c302.cdn4.forter.com
 127.0.0.1 zn0lxkzethotizctx-bahn.siteintercept.qualtrics.com
 127.0.0.1 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
