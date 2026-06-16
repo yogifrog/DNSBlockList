@@ -11,7 +11,7 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 02-05-2026 2033
+# Date 16-06-2026 1111
 #
 #
 127.0.0.1  localhost
@@ -280,6 +280,7 @@
 127.0.0.1 dn6rwwtxa647p.cloudfront.net
 127.0.0.1 ddacn6pr5v0tl.cloudfront.net
 127.0.0.1 db7q4jg5rkhk8.cloudfront.net
+127.0.0.1 dx6ctphzljkf1.cloudfront.net
 127.0.0.1 static.trbo.com
 127.0.0.1 cdntrf.com
 127.0.0.1 at.teads.tv
@@ -460,6 +461,7 @@
 127.0.0.1 h4s8dhh1.r.eu-central-1.awstrack.me
 127.0.0.1 rum.browser-intake-datadoghq.com
 127.0.0.1 browser-intake-us5-datadoghq.com
+127.0.0.1 http-intake.logs.datadoghq.com
 127.0.0.1 census-app.scorecardresearch.com
 127.0.0.1 hit-error.upscore.com
 127.0.0.1 am-api.archive-digger.com
@@ -591,6 +593,17 @@
 127.0.0.1 stpd.cloud
 127.0.0.1 lngtd.com
 127.0.0.1 achel-xof.com
+127.0.0.1 e.viously.com
+127.0.0.1 www.flashb.id
+127.0.0.1 mv.outbrainimg.com
+127.0.0.1 widget-pixels.outbrainimg.com
+127.0.0.1 api.id5-sync.com
+127.0.0.1 bid.sparteo.com
+127.0.0.1 prebid.smilewanted.com
+127.0.0.1 cmp.inmobi.com
+127.0.0.1 utiq.spiegel.de
+127.0.0.1 functions.adnami.io
+127.0.0.1 zwjvbnvhnzme.heise.de
 127.0.0.1 image.mdr.de
 127.0.0.1 diy.bauhaus.info
 127.0.0.1 fb.html-load.com
