@@ -11,7 +11,7 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 26-10-2026 0208
+# Date 26-10-2026 0216
 #
 #
 127.0.0.1  localhost
@@ -74,6 +74,7 @@
 127.0.0.1 raine.accuweather.com
 127.0.0.1 location.services.mozilla.com
 127.0.0.1 stun.services.mozilla.com
+127.0.0.1 incoming.telemetry.mozilla.org
 127.0.0.1 csp-reporting.cloudflare.com
 #
 127.0.0.1 xperiakeyboard.sonymobile.com
