@@ -11,7 +11,7 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 16-06-2026 1111
+# Date 26-10-2026 0208
 #
 #
 127.0.0.1  localhost
@@ -27,6 +27,7 @@
 127.0.0.1 graph.facebook.com
 127.0.0.1 was.vodafone.de
 127.0.0.1 at.vodafone.de
+127.0.0.1 tags.vodafone.de
 127.0.0.1 evt.mxplay.com
 127.0.0.1 i.mxplayer.j2inter.com
 127.0.0.1 analytics.nianticlabs.com
@@ -49,6 +50,8 @@
 127.0.0.1 ogads-pa.clients6.google.com
 127.0.0.1 clienttracing-pa.googleapis.com
 127.0.0.1 federatedcompute-pa.googleapis.com
+127.0.0.1 appsgrowthpromo-pa.googleapis.com
+127.0.0.1 xgapromomanager-pa.googleapis.com
 127.0.0.1 ep1.adtrafficquality.google
 127.0.0.1 ep2.adtrafficquality.google
 127.0.0.1 ep3.adtrafficquality.google
@@ -109,6 +112,7 @@
 127.0.0.1 srv.de.ebayrtm.com
 127.0.0.1 geo.ddc.paypal.com
 127.0.0.1 sherlock-events-sampler.ebay.com
+127.0.0.1 server.sgtm-legacy.kleinanzeigen.de
 127.0.0.1 cas.avalon.perfdrive.com
 127.0.0.1 lms.ebayk.liberty-prod.classifiedscloud.io
 127.0.0.1 api.stores.eu-west-1.prod.paets.advertising.amazon.dev
@@ -184,6 +188,8 @@
 127.0.0.1 o427061.ingest.sentry.io
 127.0.0.1 o13855.ingest.sentry.io
 127.0.0.1 o120674.ingest.sentry.io
+127.0.0.1 o608018.ingest.sentry.io
+127.0.0.1 o132284.ingest.us.sentry.io
 127.0.0.1 54b16de4c302.cdn4.forter.com
 127.0.0.1 zn0lxkzethotizctx-bahn.siteintercept.qualtrics.com
 127.0.0.1 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
@@ -604,6 +610,15 @@
 127.0.0.1 utiq.spiegel.de
 127.0.0.1 functions.adnami.io
 127.0.0.1 zwjvbnvhnzme.heise.de
+127.0.0.1 emerald.instana.io
+127.0.0.1 static.tblcontent.com
+127.0.0.1 tags.quartermedia-ad-service.net
+127.0.0.1 n1ux7flhug.kameleoon.io
+127.0.0.1 tracking.wallapop.com
+127.0.0.1 otel.wallapop.com
+127.0.0.1 _4318._https.otel.wallapop.com
+127.0.0.1 flag.lab.amplitude.com
+127.0.0.1 eu.i.posthog.com
 127.0.0.1 image.mdr.de
 127.0.0.1 diy.bauhaus.info
 127.0.0.1 fb.html-load.com
