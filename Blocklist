@@ -11,7 +11,7 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 26-10-2026 0216
+# Date 14-11-2026 0431
 #
 #
 127.0.0.1  localhost
@@ -288,6 +288,7 @@
 127.0.0.1 ddacn6pr5v0tl.cloudfront.net
 127.0.0.1 db7q4jg5rkhk8.cloudfront.net
 127.0.0.1 dx6ctphzljkf1.cloudfront.net
+127.0.0.1 d9r4lqt28t1fm.cloudfront.net
 127.0.0.1 static.trbo.com
 127.0.0.1 cdntrf.com
 127.0.0.1 at.teads.tv
@@ -573,6 +574,7 @@
 127.0.0.1 static.cloudflareinsights.com
 127.0.0.1 video-edge-47127a.sjc05.hls.live-video.net
 127.0.0.1 55119859-dda5-430f-931e-0d72fe4b7ad1.edge.permutive.app
+127.0.0.1 mcyk1h1kr9k0psrzd7wkrnzm26j8.device.marketingcloudapis.com
 127.0.0.1 cdn.c-i.as
 127.0.0.1 kobel.services
 127.0.0.1 onesignal.com
@@ -620,6 +622,8 @@
 127.0.0.1 _4318._https.otel.wallapop.com
 127.0.0.1 flag.lab.amplitude.com
 127.0.0.1 eu.i.posthog.com
+127.0.0.1 unhappyweakness.com
+127.0.0.1 sentry.nperf.com
 127.0.0.1 image.mdr.de
 127.0.0.1 diy.bauhaus.info
 127.0.0.1 fb.html-load.com
