@@ -11,7 +11,7 @@
 # https://raw.githubusercontent.com/yogifrog/DNSBlockList/master/
 #
 # Created by Yogifrog
-# Date 14-11-2026 0431
+# Date 14-11-2026 1728
 #
 #
 127.0.0.1  localhost
@@ -622,6 +622,7 @@
 127.0.0.1 _4318._https.otel.wallapop.com
 127.0.0.1 flag.lab.amplitude.com
 127.0.0.1 eu.i.posthog.com
+127.0.0.1 eu-assets.i.posthog.com
 127.0.0.1 unhappyweakness.com
 127.0.0.1 sentry.nperf.com
 127.0.0.1 image.mdr.de
